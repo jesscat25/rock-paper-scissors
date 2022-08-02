@@ -1,0 +1,1 @@
+Simple Rock Paper Scissors game that automatically plays 5 rounds and prints the results on the console. 
